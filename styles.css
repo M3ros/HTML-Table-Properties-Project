@@ -1,0 +1,29 @@
+
+/*Table Design*/
+table {
+  table-layout: fixed;
+  width: 100%;
+  text-align: center;
+}
+caption {
+  font-size: 35px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+thead {
+  font-family: Merriweather, serif;
+}
+
+tbody{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  background-color: lightblue;
+}
+
+th, td{
+  padding: 20px;
+}
+
+thead {
+  background-color: Darkblue;
+  color: white;
+}
